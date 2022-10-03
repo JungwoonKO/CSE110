@@ -4,7 +4,7 @@
 
 
 # Jungwoon Ko User Page
-## Section 1
+# Section 1
 ***Hello, this is my page (Styling text)***
 > Quoting text "You only live once, but if you do it right, once is enough" - Mae West
 
@@ -26,4 +26,4 @@ ordered
 3. coffee
 4. grape
 
-## Section 2
+# Section 2

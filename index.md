@@ -1,6 +1,6 @@
 ![Picture](https://www.chinalongbow.com/wp-content/uploads/2020/11/Eye-Wash-Station-A.jpg)
 # Jungwoon Ko User Page
-## Heading
+## Go to section 3
 ***Hello, this is my page (Styling text)***
 > Quoting text "You only live once, but if you do it right, once is enough" - Mae West
 
@@ -43,5 +43,6 @@ ordered
 
 
 
+[Section3](## Go to section 3)
+Section 3 Section 3 Section 3 
 
-Section link for go to the [headline](# Jungwoon Ko User Page)

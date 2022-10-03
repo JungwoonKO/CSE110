@@ -1,6 +1,6 @@
 ![Picture](https://www.chinalongbow.com/wp-content/uploads/2020/11/Eye-Wash-Station-A.jpg)
-- [go to Section1](#Section1)
-- [go to Section2](#Section2)
+- [go to Section1](#section1)
+- [go to Section2](#section2)
 
 
 # Jungwoon Ko User Page

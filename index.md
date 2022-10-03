@@ -1,10 +1,10 @@
 ![Picture](https://www.chinalongbow.com/wp-content/uploads/2020/11/Eye-Wash-Station-A.jpg)
-- [go to Section 1](#Section-1)
-- [go to Section 2](#Section-2)
+- [go to Section1](#Section1)
+- [go to Section2](#Section2)
 
 
 # Jungwoon Ko User Page
-# Section 1
+# Section1
 ***Hello, this is my page (Styling text)***
 > Quoting text "You only live once, but if you do it right, once is enough" - Mae West
 
@@ -26,4 +26,4 @@ ordered
 3. coffee
 4. grape
 
-# Section 2
+# Section2
